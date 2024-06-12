@@ -1,0 +1,40 @@
+.card-container{
+    text-decoration: none;
+    position: relative;
+    background-color: #2d1d1d;
+    background-image: linear-gradient(90deg, #2d1d1d 0%, #22295c 55%, #2d1d1d 100%);
+    border: #9fa2c0 solid 5px;
+    color: white;
+    width: 400px;
+    height: 250px;
+    margin: 20px;
+    padding: 5px 20px;
+    
+
+    
+}
+
+.profile-container{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.profile-img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.date{
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+}
+
+.name{
+    text-decoration: none;
+    font-style: italic;
+}
+
